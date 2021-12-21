@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Kevin. I am the owner of Kollab Innovations, a software development company. I enjoy problem-solving and architecting solutions for real world problems.
+
+- 🌱 I’m currently learning Rust and Game Development with Godot.
+- 🔭 I’m actively looking to contribute to free and open source projects.
+
 <!--
 **kborling/kborling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
