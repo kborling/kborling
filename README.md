@@ -3,7 +3,6 @@
 I'm Kevin. I am the owner of Kollab Innovations, a software development company. I enjoy problem-solving and architecting solutions for real world problems.
 
 - 🌱 I’m currently learning Rust and Blockchain development.
-- ⚡ I enjoy building Web3 applications using Solidity on the Ethereum network.
 - 🔭 I’m actively looking to contribute to free and open source projects.
 
 
