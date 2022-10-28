@@ -2,7 +2,6 @@
 
 I'm Kevin. I'm an entrepreneurial senior full-stack engineer and United States Navy Veteran with seven years of experience leading project teams to develop innovative, large-scale, high-availability web applications. Passionate about security and uncovering and preventing potential vulnerabilities.
 
-- 🌱 I’m currently learning Rust and Blockchain development.
 - 🔭 I’m actively looking to contribute to free and open source projects.
 
 
