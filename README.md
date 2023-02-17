@@ -4,11 +4,6 @@ I'm Kevin. I'm an entrepreneurial senior full-stack engineer and United States N
 
 - 🔭 I’m actively looking to contribute to free and open source projects.
 
-
-Check out my other repos:
-- [Sourcehut](https://git.sr.ht/~kborling)
-- [Gitlab](https://gitlab.com/kborling)
-
 <!--
 **kborling/kborling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
